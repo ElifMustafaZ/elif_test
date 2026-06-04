@@ -1,0 +1,23 @@
+{
+  "name": "elif_test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ElifMustafaZ/elif_test#readme",
+  "bugs": {
+    "url": "https://github.com/ElifMustafaZ/elif_test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElifMustafaZ/elif_test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.16.0"
+  }
+}
